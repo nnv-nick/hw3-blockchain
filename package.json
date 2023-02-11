@@ -1,0 +1,23 @@
+{
+  "name": "hw3-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain homework 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnv-nick/hw3-blockchain.git"
+  },
+  "author": "nnv-nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnv-nick/hw3-blockchain/issues"
+  },
+  "homepage": "https://github.com/nnv-nick/hw3-blockchain#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  }
+}
